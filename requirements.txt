@@ -1,0 +1,12 @@
+# Core dependencies
+numpy
+matplotlib
+
+# For data loading
+keras
+
+# Logging and experiment tracking
+wandb
+
+# For confusion matrix and metrics calculation
+scikit-learn
